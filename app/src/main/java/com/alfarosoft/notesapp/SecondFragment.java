@@ -1,4 +1,4 @@
-package com.malfaro.notes_app;
+package com.alfarosoft.notesapp;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
